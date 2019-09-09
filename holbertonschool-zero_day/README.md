@@ -1,5 +1,21 @@
 # holbertonschool-zero_day
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *  Navigate to your home directory
 *  Create a directory holbertonschool-zero_day
 *  Navigate to this new directory
